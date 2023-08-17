@@ -18,5 +18,6 @@ class LenghtOfString {
 		System.out.print("enter a String : ");
 		String str = sc.next();
 		solve(str);
+		System.out.println("pankaj");
 	}
 }
